@@ -1,0 +1,23 @@
+[general parameters]                 
+n_samples = 2
+dt_samp = 0.5
+sleep = 0
+adc = no
+lockin = no
+keysight= yes
+
+[distance parameters]
+d_distance = 25
+init_distance = 300
+final_distance = 400
+
+[phi parameters]
+d_ang = 5
+init_ang = -45
+final_ang = 45
+
+[theta parameters]
+d_ang = 0
+init_ang = 0
+final_ang = 0
+

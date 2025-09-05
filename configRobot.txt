@@ -1,0 +1,14 @@
+[robotMMLab]
+linear_res = 20e-3
+angular_res=0.01
+angular_res_p = 0.01
+angular_res_t = 0.01
+# Res angular Modificado J. Fluxa 22/05/2019
+# angular_res para rotador pequeño es 0.04, 0.01 para rotador grande -F.C.
+max_steps_x = 0
+max_steps_y = 0
+y_min = 0
+phi_offset = 0
+y_source = 395
+x_offset = 200
+colision_area = 0, 0, 0, 0 #x1,y1,x2, y2  
