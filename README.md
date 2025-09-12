@@ -44,7 +44,7 @@ Password:temppwd
 
 Una vez adentro ejecutar comando **robot**
 
-Esto ejecutará **sudo python ~/mmlab/robot_anecoica*main.py**
+Esto ejecutará **sudo python ~/mmlab/robot_anecoica/main.py**
 
 Se deberia desplegar una GUI en la terminal autoexplicativa, que contiene lo descrito anteriormente
 
